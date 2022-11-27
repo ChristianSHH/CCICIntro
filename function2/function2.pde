@@ -8,7 +8,7 @@ int recto1 = rect[0];
 //{200, 200, 100, 100};
 void setup(){
   size(400, 400);
-  backgorund(
+  
 }
 
 void draw(){
